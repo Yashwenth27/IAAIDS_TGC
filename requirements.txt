@@ -1,0 +1,9 @@
+streamlit
+firebase_admin
+streamlit_navigation_bar
+tensorflow
+keras.models
+PIL
+numpy
+streamlit_extras
+
