@@ -3,7 +3,7 @@ firebase_admin
 streamlit_navigation_bar
 tensorflow
 keras.models
-PIL
+pillow
 numpy
 streamlit_extras
 
