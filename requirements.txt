@@ -1,9 +1,9 @@
-streamlit
-firebase_admin
-streamlit_navigation_bar
-tensorflow
-keras.models
-pillow
-numpy
-streamlit_extras
+streamlit==1.35.0
+firebase_admin==6.5.0
+streamlit_navigation_bar==3.3.0
+tensorflow==2.15.0
+keras.models==2.15.0
+pillow==10.3.0
+numpy==1.26.4
+streamlit_extras==0.4.3
 
